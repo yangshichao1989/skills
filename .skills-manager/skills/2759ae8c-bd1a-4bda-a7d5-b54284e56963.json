@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2759ae8c-bd1a-4bda-a7d5-b54284e56963",
+  "path": "spec-to-testflow",
+  "path_key": "spec-to-testflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
