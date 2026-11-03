@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "55467836-d38a-4206-9756-0276137a4e18",
+  "path": "add-lang",
+  "path_key": "add-lang",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/colbymchenry/codegraph",
+    "subpath": ".claude\\skills\\add-lang",
+    "branch": null
+  }
+}
